@@ -1,6 +1,6 @@
 # Neural tangent kernels of deep convolutional neural networks
 
-This repository is the official implementation of [How Wide Convolutional Neural Networks Learn Hierarchical Tasks](https://arxiv.org/abs/2208.01003).
+This repository is the official implementation of [What can be learnt with wide convolutional neural networks?](https://arxiv.org/abs/2208.01003).
 
 ## Requirements
 
